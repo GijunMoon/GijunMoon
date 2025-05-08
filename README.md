@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>📚 STACKS</h1></div>
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,opencv,unity,arduino,raspberrypi&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,py,opencv,unity,arduino,raspberrypi" />
+  </a>
+</p>
