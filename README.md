@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center><h1>📚 STACKS</h1></div>
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,opencv,unity,arduino,raspberrypi&perline=3)](https://skillicons.dev)
