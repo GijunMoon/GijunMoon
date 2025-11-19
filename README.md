@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [@SQPLAB](https://sites.google.com/view/sqpelab) about UAM (Multicopter), Autonomous Flight, Reinforcement Learning, Machine Learning
 - 🌱 I’m currently learning ROS2, Signal Process, Embedded systems
+- 🔭 I’m currently interested in rocketry and satellites.
 - 📫 How to reach me: moongijun@gnu.ac.kr
 - ⚡ Fun fact: GNU also stands for Gyeongsang National University.
 
