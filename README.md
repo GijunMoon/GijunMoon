@@ -1,29 +1,39 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gijun%20Moon&fontSize=90)
-<!--
-**GijunMoon/GijunMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me.
 
-Here are some ideas to get you started:
+항공우주도메인을 중심으로, AI와 로보틱스를 **적용**하는 데 집중하고 있습니다.  
+단순한 아이디어를 넘어서 하나의 시스템을 만드는 것을 목표로 합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🔭 I’m currently working on [@SQPLAB](https://sites.google.com/view/sqpelab) about UAM (Multicopter), Autonomous Flight, Reinforcement Learning, Machine Learning
-- 🌱 I’m currently learning ROS2, Signal Process, Embedded systems
-- 🔭 I’m currently interested in rocketry and satellites.
-- 📫 How to reach me: moongijun@gnu.ac.kr
-- ⚡ Fun fact: GNU also stands for Gyeongsang National University.
+## 🏭 What I Do
 
-<div align=center><h1>📚 STACKS</h1></div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,opencv,unity,arduino,raspberrypi" />
-  </a>
-</p>
+- Industrial AI  
+- Digital Twin & Manufacturing  
+- Robotics, Drones & Sim2Real  
+- Embedded & HMI  
+---
+
+## 🧠 Tech Stack
+
+- Languages  
+  - Python
+  - C/C++
+  - C#
+  - (etc.) JS
+
+- AI & Data  
+  - TensorFlow/Keras, PyTorch (ML/DL 실험)
+  - RAG, LLM agents, LangChain 스타일 워크플로 설계.  
+  - 시계열/센서 데이터 전처리, 이상 탐지, 예측 모델링.
+
+- Robotics & Simulation  
+  - ROS2
+  - PX4, MAVROS/ROS2 bridge, Gazebo
+  - Unity3D
+
+- Embedded & Tools  
+  - MCU: ATmega, ESP32, 센서·액추에이터 제어.
+  - PCB 아트워크
+  - Git, Linux dev 환경.
+
+---
